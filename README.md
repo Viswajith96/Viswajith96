@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Viswajith Venu</h1>
 <h3 align="center">A passionate DevOps Engineer from Kerala,India</h3>
 
-- 🔭 I’m currently working @ **Sedai** **We are the first autonomous cloud management company**
+- 🔭 I’m currently working @ **Sedai,** **We are the first autonomous cloud management company**
 
 - 📫 How to reach me **vishnukarthikayam@gmail.com**
 
