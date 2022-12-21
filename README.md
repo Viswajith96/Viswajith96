@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working @ **Sedai,** **We are the first autonomous cloud management company**
 
-- 📫 How to reach me **vishnukarthikayam@gmail.com**
+- 📫 How to reach me  -> **vishnukarthikayam@gmail.com**
 
 <p align="left">
 </p>
