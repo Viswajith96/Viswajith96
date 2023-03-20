@@ -72,7 +72,7 @@
         - mlflow-seldon
 
 
-## Certifications:
+## :trophy: Certifications:
 
       CKA (Certified Kubernetes Administrator)
       AWS SSA-C03 (AWS Certified Solutions Architect - Associate)
