@@ -6,7 +6,7 @@
 ---
 ---
 
-##  ⚡ SKILLS:
+##  ⚡ My Skills in the area of DevOps:
     
     - Cloud platform:
         - AWS
