@@ -71,13 +71,15 @@
     - MLOps:
         - mlflow-seldon
 
-    - Certifications:
-        - **CKA** (Certified Kubernetes Administrator)
-        - **AWS SSA-C03** (AWS Certified Solutions Architect - Associate)
-        - **AZ-104** (Microsoft Certified Azure Administrator Associate)
-        - **AZ-900** (Microsoft Certified Azure Fundamentals)
-        - **RHCSA** (Redhat certified System Administrator)
-        - **ITIL Foundation**
+
+## Certifications:
+
+      **CKA** (Certified Kubernetes Administrator)
+      **AWS SSA-C03** (AWS Certified Solutions Architect - Associate)
+      **AZ-104** (Microsoft Certified Azure Administrator Associate)
+      **AZ-900** (Microsoft Certified Azure Fundamentals)
+      **RHCSA** (Redhat certified System Administrator)
+      **ITIL Foundation**
 
 ## 📫 Connect with me:
 <div align="center">
