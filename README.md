@@ -1,10 +1,99 @@
-<h1 align="center">Hi 👋, I'm Viswajith Venu</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Viswajith Venu</h1>
 <h3 align="center">A passionate DevOps Engineer from Kerala,India</h3>
 
 - 🔭 I’m currently working @ **Sedai,** **We are the first autonomous cloud management company**
 
-- 📫 How to reach me  -> **vishnukarthikayam@gmail.com**
-                      -> **9567613278**
+---
+---
+
+##  ⚡ SKILLS:
+    
+    - Cloud platform:
+        - AWS
+        - Azure
+    - Container Orchestration:
+        - AKS
+        - EKS
+        - K8's (Vanila), ECS
+    - Kubernetes Observability:
+        - PLG Stack (for logging)
+        - Prometheus-Thanos-Grafana (for metrics)
+        - eBPF (Coroot, Groundcover)
+    - GitOPs:
+        - argoCD 
+        - Flux 
+    - IAC:
+        - Terraform 
+        - AWS Cloudformation
+        - Azure ARM
+    - Continuous Integeration/Continuous Deployment:
+        - Jenkins
+        - GitLab CICD
+        - Github actions
+    - Security Tools:
+        - ZAP
+        - aqua trivy
+        - Falco
+    - Operating Systems:
+        - RedHat Linux Release 7.x ,8.x
+        - Ubuntu 18.04, 20.04
+        - CentOS 7.x
+    - DBA:
+        - PostgreSQL
+        - MongoDB
+    - Scripting Languages:
+        - Bash Scripting   
+    - Source Code Management/Version Control:
+        - Git ( Github, GitLab )
+    - Build Tool:
+        - Maven 
+        - Gradle 
+        - Ant
+    - Web Servers:
+        - Apache 
+        - Nginx
+    - Application Server:
+        - Apache Tomcat
+    - Code Quality Management:
+        - Sonarqube
+    - Artifact Repository: 
+        - Sonatype Nexus
+        - JFrog 
+        - AWS Code artifactory
+    - Continuous Integeration/Continuous Deployment:
+        - Jenkins 
+        - GitLab CICD
+        - Github actions
+    - Containerization:
+        - Docker
+    - Configuration Management:
+        - Ansible (Basics) 
+    - MLOps:
+        - mlflow-seldon
+
+    - Certifications:
+        - **CKA** (Certified Kubernetes Administrator)
+        - **AWS SSA-C03** (AWS Certified Solutions Architect - Associate)
+        - **AZ-104** (Microsoft Certified Azure Administrator Associate)
+        - **AZ-900** (Microsoft Certified Azure Fundamentals)
+        - **RHCSA** (Redhat certified System Administrator)
+        - **ITIL Foundation**
+
+## 📫 Connect with me:
+<div align="center">
+  <br>
+  <p><b>Thank you for your time.</b><br>
+    It was nice having you here.<br><br>
+    If you have any queries or just wanna say <i>Hi</i>,&nbsp;
+<p align="center">
+
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/viswajith-v-52524212a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href = "https://www.instagram.com/visw_ajith96/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="mailto:vishnukarthikayam@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+</p>
 
 <p align="left">
 </p>
