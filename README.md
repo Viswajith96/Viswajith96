@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Viswajith Venu</h1>
 <h3 align="center">A passionate DevOps Engineer from Kerala,India</h3>
 
-<h3 align="center">🔭 I’m currently working at [Sedai](https://sedai.io), We are the first autonomous cloud management company</h3>
+<h3 align="center">🔭 I’m currently working at sedai.io, We are the first autonomous cloud management company</h3>
 
 ---
 
