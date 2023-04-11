@@ -96,7 +96,12 @@
 
 </p>
 
-<p align="left">
+<p align="center">
+</p>
+
+<p align='center'>
+ &nbsp;<img  src="https://github-readme-stats-sigma-five.vercel.app/api?username=Viswajith96&show_icons=true&locale=en" alt="Viswajith"></img>
+ &nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=Viswajith96&" alt="Viswajith"></img>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
