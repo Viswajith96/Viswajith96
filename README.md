@@ -58,7 +58,7 @@
     - Artifact Repository: 
         - Sonatype Nexus
         - JFrog 
-        - AWS Code artifactory
+        - AWS Code artifact
     - Continuous Integeration/Continuous Deployment:
         - Jenkins 
         - GitLab CICD
