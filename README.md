@@ -1,11 +1,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Viswajith Venu</h1>
-<h3 align="center">A passionate DevOps Engineer having more than 8 years of experience</h3>
+<h3 align="center">A passionate Cloud & DevOps Engineer having more than 8 years of experience</h3>
 
 <h3 align="center">🔭 I’m currently working at Finstreet, AbuDhabi, UAE</h3>
 
 ---
 
-##  ⚡ My Skills in the area of DevOps:
+##  ⚡ My Skills in the area of Cloud & DevOps:
     
     - Cloud platform:
         - AWS
