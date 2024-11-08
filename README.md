@@ -33,21 +33,23 @@
         - ZAP
         - aqua trivy
         - Falco
+        - wallarm
     - Operating Systems:
         - RedHat Linux Release 7.x ,8.x
-        - Ubuntu 18.04, 20.04
+        - Ubuntu 18.04, 20.04, 22.04
         - CentOS 7.x
     - DBA:
         - PostgreSQL
         - MongoDB
     - Scripting Languages:
-        - Bash Scripting   
+        - Python, Bash   
     - Source Code Management/Version Control:
         - Git ( Github, GitLab )
     - Build Tool:
         - Maven 
         - Gradle 
         - Ant
+        - node
     - Web Servers:
         - Apache 
         - Nginx
@@ -55,6 +57,8 @@
         - Apache Tomcat
     - Code Quality Management:
         - Sonarqube
+        - checkmarx
+        - veracode
     - Artifact Repository: 
         - Sonatype Nexus
         - JFrog 
