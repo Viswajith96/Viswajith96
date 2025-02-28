@@ -15,12 +15,13 @@
         - EKS
         - K8's (Vanila), ECS
     - Kubernetes Observability:
+        - Grafana Cloud
         - PLG Stack (for logging)
         - Prometheus-Thanos-Grafana (for metrics)
         - eBPF (Coroot, Groundcover)
     - GitOPs:
         - argoCD 
-        - Flux 
+        - fluxCD 
     - IAC:
         - Terraform 
         - AWS Cloudformation
@@ -34,6 +35,9 @@
         - aqua trivy
         - Falco
         - wallarm
+        - DefectDojo
+        - Checkmarx
+        - Snyk
     - Operating Systems:
         - RedHat Linux Release 7.x ,8.x
         - Ubuntu 18.04, 20.04, 22.04
